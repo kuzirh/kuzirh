@@ -2,10 +2,10 @@
 
 ## I am a Full Stack Software Engineer with a passion to build cool and exciting technology.
 
-- 🔭 I’m currently working on a camera scanning application
-- 🌱 I’m currently learning React Native 🤡
+- 🔭 I’m currently working on a top-secret food application
+- 🌱 I’m currently learning Python 🤡
 - 👯 I’m looking to collaborate with literally anyone that hits me up lol
-- 🥅 2020 Goals: Get to 500 contributions on my GitHub
+- 🥅 2022 Goals: Get to 500 contributions on my GitHub, made it to 300+ in 2020.
 - ⚡ Fun fact: I speak 3 languages, and have 8 pets
 
 <br />
