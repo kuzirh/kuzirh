@@ -1,12 +1,12 @@
 ## Hello, my name is Michael - aka Kuzirh
 
-## I am a Full Stack Software Engineer with a passion to build cool and exciting technology.
+## I am a technologist with a passion to build and learn.
 
 - 🔭 I’m currently working on a top-secret food application
-- 🌱 I’m currently learning Python 🤡
+- 🌱 I’m currently working on getting my Security+ and PenTest+ Certifications 🤡
 - 👯 I’m looking to collaborate with literally anyone that hits me up lol
-- 🥅 2021 Goals: Get to 500 contributions on my GitHub, made it to 300+ in 2020.
-- ⚡ Fun fact: I speak 3 languages, and have 8 pets
+- 🥅 2023 Goals: Get to 500 contributions on my GitHub.
+- ⚡ Fun fact: I speak 3 languages, and have 11 pets
 
 <br />
 
